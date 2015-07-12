@@ -1,3 +1,7 @@
+[user]
+        name = Sheroy Marker
+        email = sheroy@gmail.com
+
 [alias]
         #Shorthands for common commands
         co = checkout
